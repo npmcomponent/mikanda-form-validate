@@ -1,0 +1,27 @@
+{
+  "name": "form-validate",
+  "repo": "mikanda/form-validate",
+  "version": "0.0.1",
+  "description": "Extends schema validate to give reasonable error messages.",
+  "keywords": [
+    "json",
+    "schema",
+    "validate",
+    "form"
+  ],
+  "dependencies": {
+    "mikanda/schema-validate": "1.0.0",
+    "component/bind": "0.0.1",
+    "visionmedia/minstache": "1.1.0",
+    "component/to-function": "1.1.1",
+    "component/model": "0.0.1"
+  },
+  "development": {
+    "visionmedia/mocha": "*",
+    "chaijs/chai": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
