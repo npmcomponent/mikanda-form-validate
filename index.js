@@ -3,10 +3,10 @@
  * Module dependencies.
  */
 
-var bind = require('bind'),
-    minstache = require('minstache'),
-    toFunction = require('to-function'),
-    SchemaValidate = require('schema-validate'),
+var bind = require('component-bind'),
+    minstache = require('visionmedia-minstache'),
+    toFunction = require('component-to-function'),
+    SchemaValidate = require('mikanda-schema-validate'),
 
     // symbol imports
 

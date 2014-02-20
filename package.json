@@ -1,0 +1,19 @@
+{
+  "name": "mikanda-form-validate",
+  "description": "Extends schema validate to give reasonable error messages.",
+  "version": "0.0.1",
+  "keywords": [
+    "json",
+    "schema",
+    "validate",
+    "form"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "mikanda-schema-validate": "git://github.com/npmcomponent/mikanda-schema-validate.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git",
+    "visionmedia-minstache": "git://github.com/npmcomponent/visionmedia-minstache.git",
+    "component-to-function": "git://github.com/npmcomponent/component-to-function.git",
+    "component-model": "git://github.com/npmcomponent/component-model.git"
+  }
+}
